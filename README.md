@@ -1,12 +1,12 @@
 # Ola meu nome é Arthur vinicius
 
-- 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
-- Trabalhando na *@kabum* como desenvolvedora Full Stack. 
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 👾 Meus hobbies são: 
-  - Estudar sobre hacking e Lockpick; 
-  - Gravar conteúdos;
-  - Ler livros;
-  - Jogar League of Legends;
+- 👩‍💻 Sou estudante na area de Ti e utilizando o framework **Node.js**;
+- Trabalhando 
+- 💼 Sou muito aficionado por tecnologia, por este motivo estou sempre estudando e tentando me profissionalizar cada vez mais;
+- 👾 **Meus hobbies são:**
+  - Estudar sobre html, javascript, Bootstrap com uma leve pitada de PHP; 
+  - no meu tempos livre
+  - faços lives;
+  - Jogo League of Legends, cs:go GTA entre outros;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
