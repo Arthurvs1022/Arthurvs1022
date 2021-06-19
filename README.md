@@ -1,4 +1,4 @@
-#Ola meu nome é Arthur vinicius
+##Ola meu nome é Arthur vinicius
 
 - 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
 - Trabalhando na *@kabum* como desenvolvedora Full Stack. 
