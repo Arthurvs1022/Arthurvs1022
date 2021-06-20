@@ -1,6 +1,4 @@
 
-
-**Meus interesses pessoais:**
 # Ola meu nome é Arthur vinicius
 
 - 👩‍💻 Sou estudante na area de Ti ultimamente me especializando em Desenvolvimento Front-end;
