@@ -69,3 +69,4 @@ Nas horas livres produzo conteúdo de tecnologia para a plataforma:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="arthurvs1022" /> </p>
