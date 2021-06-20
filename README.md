@@ -36,7 +36,7 @@ Nas horas livres produzo conteúdo de tecnologia para a plataforma:
 # **Um pouco sobre mim**
 
 
-- 👩‍💻 Sou estudante na area de Ti ultimamente me especializando em Desenvolvimento Front-end;
+- 👨‍💻 Sou estudante na area de Ti ultimamente me especializando em Desenvolvimento Front-end;
 - atualmente trabalhando nos meus proprios projetos;
 - 💼 Sou muito aficionado por tecnologia, por este motivo estou sempre estudando e tentando me profissionalizar cada vez mais;
 - 👾 **Meus hobbies são:**
