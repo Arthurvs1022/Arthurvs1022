@@ -16,28 +16,19 @@ Me chamo <b> Hérika Ströngreen</b>.
   <img align="right" src="https://img.icons8.com/fluent/452/twitch.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente moro em Belo Horizonte/MG-BR.<br />
-E estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>.
+Atualmente moro em Tamandare-PE.<br />
+E estou me capacitando pela UNIFG para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Nas horas livres produzo conteúdos de tecnologia para as plataformas:
+Nas horas livres produzo conteúdo de tecnologia para a plataforma:
 </p>
 <p align="left" >
 <ul>
-  <li>Youtube </li>
   <li>Instagram </li>
 </ul>
-</p>
-<p align="left" >
-🚀 Também já palestrei em eventos como:
-  <ul>
-  <li> Arduino Day </li>
-  <li> LatinoWare </li>
-</ul>
-</p>
 </p>
 
 <hr />
