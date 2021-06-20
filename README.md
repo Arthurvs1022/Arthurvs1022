@@ -34,7 +34,7 @@ Nas horas livres produzo conteúdo de tecnologia para a plataforma:
 <hr />
 
 **Meus interesses pessoais:**
-# Ola meu nome é Arthur vinicius
+# Ola
 
 - 👩‍💻 Sou estudante na area de Ti ultimamente me especializando em Desenvolvimento Front-end;
 - Trabalhando 
