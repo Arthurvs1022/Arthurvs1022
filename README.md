@@ -19,7 +19,7 @@ Me chamo <b> Hérika Ströngreen</b>.
 Atualmente moro em Tamandare-PE.<br />
 E estou me capacitando pela UNIFG para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/arthur-vin%C3%ADcius-11827b180/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <p align="left" >
