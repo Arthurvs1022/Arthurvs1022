@@ -37,11 +37,11 @@ Nas horas livres produzo conteúdo de tecnologia para a plataforma:
 
 
 - 👩‍💻 Sou estudante na area de Ti ultimamente me especializando em Desenvolvimento Front-end;
-- Trabalhando 
+- atualmente trabalhando nos meus proprios projetos;
 - 💼 Sou muito aficionado por tecnologia, por este motivo estou sempre estudando e tentando me profissionalizar cada vez mais;
 - 👾 **Meus hobbies são:**
   - Estudo sobre React Native e Redux; 
-  - **Nos meus tempos livres**
+- **Nos meus tempos livres**
   - faços lives;
   - Jogo League of Legends, cs:go, GTA entre outros;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
