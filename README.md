@@ -4,13 +4,13 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
-  <b>Faaallaaa Makers!</b>
+  <b>opa fala tu !</b>
 </p>
 <a href="https://www.instagram.com/arthurvs_/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Me chamo <b> Hérika Ströngreen</b>.
+Me chamo <b> Arthur vinicius</b>.
 </p>
 <a href="https://www.twitch.tv/arthurvs" target="_blank">
   <img align="right" src="https://img.icons8.com/fluent/452/twitch.png" width="48px" height="48px">
