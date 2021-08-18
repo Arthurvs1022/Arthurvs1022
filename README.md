@@ -22,7 +22,7 @@ E estou me capacitando pela UNIFG para me tornar um <b>Desenvolvedor Full-Stack 
 <a href="https://www.linkedin.com/in/arthur-vin%C3%ADcius-11827b180/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-
+<br>
 <hr />
 
 # **Um pouco sobre mim**
