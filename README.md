@@ -22,14 +22,6 @@ E estou me capacitando pela UNIFG para me tornar um <b>Desenvolvedor Full-Stack 
 <a href="https://www.linkedin.com/in/arthur-vin%C3%ADcius-11827b180/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<p align="left" >
-Nas horas livres produzo conteúdo de tecnologia para a plataforma:
-</p>
-<p align="left" >
-<ul>
-  <li>Instagram </li>
-</ul>
-</p>
 
 <hr />
 
