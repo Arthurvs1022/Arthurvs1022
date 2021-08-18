@@ -32,7 +32,6 @@ E estou me capacitando pela UNIFG para me tornar um <b>Desenvolvedor Full-Stack 
 - 💼atualmente trabalhando nos meus proprios projetos;
 - 🕵🏻 Sou muito aficionado por tecnologia, por este motivo estou sempre estudando e tentando me profissionalizar cada vez mais;
 - 👨🏻‍🔬 **Meus hobbies são:**
-  - Estudo sobre React Native e Redux;
   - Fotografia;
   - Lives na twitch;
   - Jogo League of Legends, cs:go, GTA entre outros;
