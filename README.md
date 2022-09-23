@@ -39,7 +39,7 @@ E estou me capacitando pela UNIFG para me tornar um <b>Desenvolvedor Full-Stack.
 - 📫 Se quiser pode enviar um email para arthurvs1022@gmail.com;
 
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-statsalt=" arthurvs1022" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvs1022&layout=compact)](https://github.com/anuraghazra/github-readme-statsalt=" arthurvs1022" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvs1022&layout=compact&theme=graywhite&title_color=268bd2" alt="arthurvs1022" />
 </p>
 <p>&nbsp;
