@@ -34,7 +34,7 @@ E estou me capacitando pela UNIFG para me tornar um <b>Desenvolvedor Full-Stack.
 - 👨🏻‍🔬 **Meus hobbies são:**
   - Fotografia;
   - Jogo League of Legends, valorant, GTA entre outros;
-  - <br>
+   <br>
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para arthurvs1022@gmail.com;
 
