@@ -40,9 +40,10 @@ Gosto de aprender constantemente, desenvolver projetos pessoais e aplicar meus c
 
 | Projeto | Descrição |
 |----------|------------|
-| [**Sistema PDV (Access + VBA)**](https://github.com/Arthurvs1022) | Sistema de ponto de venda desenvolvido em Microsoft Access, com formulários, relatórios e automação em VBA. |
-| [**Site Coco Fácil**](https://github.com/Arthurvs1022) | Página de divulgação para o produto *Coco Fácil*, com foco em marketing digital e identidade visual. |
-| [**FusionStore**](https://github.com/Arthurvs1022) | Projeto em grupo com Arthur, Rodrigo e Lucas — um e-commerce digital voltado para o público de Tamandaré. |
+| [**🧑‍💼 Conecta RH Talentos**](https://github.com/Arthurvs1022/Conecta-RH-Talentos) | Plataforma voltada para gestão de talentos e processos seletivos. Desenvolvida com foco em usabilidade e organização de candidatos e vagas. |
+| [**👟 Loja Virtual Responsiva**](https://github.com/Arthurvs1022/Loja-Virtual-Responsiva-main) | E-commerce de calçados desenvolvido com HTML, CSS e JavaScript. Layout moderno, design responsivo e foco em experiência do usuário. |
+| [**💳 Sistema PDV (Mercional)**](https://github.com/Arthurvs1022) | Sistema de ponto de venda criado em **Microsoft Access + VBA**, com cálculo automático de subtotal, finalização de vendas e impressão de cupom fiscal. Projeto pensado para pequenos comércios. |
+| [**🛒 FusionStore**](https://github.com/Arthurvs1022) | Projeto colaborativo com Arthur, Rodrigo e Lucas — um e-commerce digital desenvolvido para o público de Tamandaré, unindo tecnologia e praticidade. |
 
 ---
 
